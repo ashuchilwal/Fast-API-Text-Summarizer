@@ -1,0 +1,8 @@
+{
+  "text": "Elon Musk, the CEO of Tesla and SpaceX, announced that Tesla's new AI-powered self-driving technology will be available in 2025. The stock market responded positively, with Tesla shares rising by 5%. Analysts believe this move will further strengthen Tesla's position in the electric vehicle market. However, some experts have raised concerns about the safety of autonomous driving, citing past incidents and regulatory challenges. Meanwhile, SpaceX continues its mission to explore Mars, with plans for a human-crewed mission by 2030."
+}
+
+
+{
+  "text": "The global economy is facing a severe recession due to rising inflation and geopolitical tensions. Many businesses have been forced to shut down, and unemployment rates are increasing. Experts warn that unless immediate measures are taken, the situation may worsen in the coming months. Governments worldwide are trying to implement economic stimulus packages, but the results are uncertain."
+}

@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+transformers 
+spacy 
+textblob
+torch
+
+
+nltk
+rake-nltk
